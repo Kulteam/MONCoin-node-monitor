@@ -23,7 +23,7 @@ const DefaultConfig: Interfaces.CollectorConfig = {
     pollingInterval: 60,
     updateInterval: 360,
     historyDays: 0.25,
-    nodeList: 'http://exp.moncoin.io/Node-Pool-List/MONCoin-nodes.json'
+    nodeList: 'https://exp.moncoin.io/list/nodes.json'
 };
 
 /**
